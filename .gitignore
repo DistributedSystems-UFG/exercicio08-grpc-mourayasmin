@@ -1,0 +1,9 @@
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated gRPC/protobuf files
+*_pb2.py
+*_pb2_grpc.py
